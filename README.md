@@ -1,6 +1,9 @@
 # dynamic_textfield_widget
 
-A new Flutter project.
+A file containing a dynamic width of Container widget
+the child is TextField and minimum width is 20 pixel
+the width increases as the number of letters increases we write in the textfiled .
+A simple paged file to showcase the method
 
 ## Getting Started
 
